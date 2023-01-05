@@ -2,6 +2,7 @@
 
 #include <bits/stdc++.h>
 #define ll long long
+#define sontrau main()
 using namespace std;
 
 double dientich(double a, double b, double c){
@@ -16,7 +17,7 @@ bool chk(double x, double y, double z){
 		return false;
 }
 
-main() {
+sontrau{
 	double a,b,c;
 	cin >>a >>b >>c;
 	if (chk(a,b,c) && chk(a,c,b) && chk(b,c,a)){

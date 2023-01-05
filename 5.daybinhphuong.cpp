@@ -2,10 +2,11 @@
 
 #include <bits/stdc++.h>
 #define ll long long
+#define sontrau main()
 
 using namespace std;
 
-main() {
+sontrau {
 	ll n;
 	cin >>n;
 

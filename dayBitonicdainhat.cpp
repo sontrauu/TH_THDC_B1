@@ -1,13 +1,13 @@
 //	http://laptrinhonline.club/problem/tichpxbitonic
 
 #include <bits/stdc++.h>
-
 #define ll long long
+#define sontrau main()
 
 using namespace std;
 
 
-int main() {
+int sontrau{
 	ll n;
 
 	cin >>n;

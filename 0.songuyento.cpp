@@ -2,6 +2,7 @@
 
 #include <bits/stdc++.h>
 #define ll long long
+#define sontrau main()
 
 using namespace std;
 
@@ -15,7 +16,7 @@ bool cf_snt(ll n){
     return true;
 }
 
-main(){
+sontrau{
 	ll n;
 	cin >>n;
 
